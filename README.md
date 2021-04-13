@@ -1,4 +1,4 @@
-#Ghouls Goblins and Ghosts... Boo!
+# Ghouls Goblins and Ghosts... Boo!
 
 ### Purpose
 Predict the type of each creature (Ghoul, Goblin, or Ghost) given its bone length measurements, severity of rot, extent of soullessness, etc. 
