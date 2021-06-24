@@ -1,4 +1,5 @@
 # Ghouls Goblins and Ghosts... Boo!
+https://www.kaggle.com/c/ghouls-goblins-and-ghosts-boo/overview
 
 ### Purpose
 Predict the type of each creature (Ghoul, Goblin, or Ghost) given its bone length measurements, severity of rot, extent of soullessness, etc. 
